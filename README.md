@@ -11,7 +11,7 @@ Always ensure the resource pack version matches your game version (e.g., a 1.20 
 
 This is the most common method for Java Edition.
 
-1.  **Download a Resource Pack:** Find and download a resource pack file (usually a `.zip` file) from a trusted source (e.g., CurseForge, Planet Minecraft). **Do not unzip the file.**
+1.  **Download the resource pack!**
 
 2.  **Open Minecraft:** Launch the Minecraft game and navigate to the main menu.
 
@@ -28,22 +28,3 @@ This is the most common method for Java Edition.
 8.  **Enable:** Click the arrow icon on the pack's icon to move it to the **"Selected Resource Packs"** list on the right.
 
 9.  **Enjoy:** Click **"Done"** to load the textures. The game may pause briefly.
-
-***
-
-## Method 2: Double-Clicking (Bedrock Edition/Windows 10/11)
-
-For Windows 10/11 Bedrock Edition users, resource packs often come in an easy-to-install format (`.mcpack` or `.mcaddon`).
-
-1.  **Download the Pack:** Download the resource pack file. It should end with `.mcpack` or `.mcaddon`.
-
-2.  **Ensure Minecraft is Closed:** Make sure your Minecraft application is completely closed.
-
-3.  **Double-Click the File:** Simply double-click the downloaded `.mcpack` or `.mcaddon` file.
-
-4.  **Automatic Import:** Minecraft will launch automatically and begin importing the pack. A "Pack Import Started" message will appear at the top of your screen, followed by a "Successfully Imported" message.
-
-5.  **Activate In-Game:**
-    *   **Global Activation:** Go to **"Settings"** > **"Global Resources"** under the "General" tab. Select the pack under **"Available"** and click **"Activate"**.
-    *   **World-Specific:** Edit an existing world's settings and apply the pack under the "Add-Ons" section.
-
